@@ -1,0 +1,13 @@
+rpmfusion:
+  lookup:
+    # URL to the RPMFUSION FREE RPM to install
+    freerpm:
+
+    # URL to the RPMFUSION NONFREE RPM to install
+    nonfreerpm:
+
+    # Disable (default)/enable RPMFUSION NONFREE
+    nonfree: True
+
+    # Disable (default)/enable RPMFUSION Updates testing
+    testing: True

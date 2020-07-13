@@ -1,7 +1,7 @@
 rpmfusion
 ====
 
-Install the RPMFUSION RPM on RHEL 6/7, CentOS 6/7 and Fedora 29/30/31.
+Install the RPMFUSION RPM on RHEL 6/7/8, CentOS 6/7/8 and Fedora 29/30/31.
 
 .. note::
 
